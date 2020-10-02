@@ -1,1 +1,1 @@
-# startup-website An amazing  projext
+# startup-website An amazing  project
